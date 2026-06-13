@@ -5,7 +5,7 @@
 ### Sobre mim
 🎓MBA Engenharia De Dados - Universidade Mackenzie
 🎓Bacharela e Licenciada em Geografia pela Universidade de São Paulo - USP 👩‍🚀<br/>
-🔭Data Developer • Data Engineer | CI&T <br/>
+🔭Data Developer • Data Engineer  <br/>
 ⚡ETL • SQL • Python • Hive • Hadoop • Apache Spark • AWS • GCP
 <br/>
 
