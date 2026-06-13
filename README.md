@@ -41,7 +41,7 @@ Transformando dados em soluções e conhecimento por meio de engenharia, automa�
 
 * Data Warehousing
 * Data Lakes
-* Processamento Batch
+* Processamento Batch e Streaming
 * Processamento de Dados em Escala
 
 ---
@@ -50,7 +50,7 @@ Transformando dados em soluções e conhecimento por meio de engenharia, automa�
 
 * Aprimorando conhecimentos em arquitetura de dados moderna
 * Explorando soluções em Cloud Computing
-* Desenvolvendo projetos de Engenharia de Dados e Analytics
+* Desenvolvendo projetos de Engenharia de Dados
 
 ---
 
